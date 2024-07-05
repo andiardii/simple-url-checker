@@ -23,7 +23,7 @@ git clone https://github.com/andiardii/simple-url-checker.git
 pip install requests
 ```
 
-**Step 3:** Input all of your urls that you want to check in urls.txt file
+**Step 3:** Input all of your urls that you want to check in `urls.txt` file
 
 **Step 4:** Run command
 
